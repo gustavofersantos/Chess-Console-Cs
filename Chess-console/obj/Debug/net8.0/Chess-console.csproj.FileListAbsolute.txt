@@ -1,0 +1,28 @@
+C:\Users\gusta\source\repos\Chess-console\Chess-console\bin\Debug\net8.0\Chess-console.exe
+C:\Users\gusta\source\repos\Chess-console\Chess-console\bin\Debug\net8.0\Chess-console.deps.json
+C:\Users\gusta\source\repos\Chess-console\Chess-console\bin\Debug\net8.0\Chess-console.runtimeconfig.json
+C:\Users\gusta\source\repos\Chess-console\Chess-console\bin\Debug\net8.0\Chess-console.dll
+C:\Users\gusta\source\repos\Chess-console\Chess-console\bin\Debug\net8.0\Chess-console.pdb
+C:\Users\gusta\source\repos\Chess-console\Chess-console\obj\Debug\net8.0\Chess-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\Chess-console\Chess-console\obj\Debug\net8.0\Chess-console.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\Chess-console\Chess-console\obj\Debug\net8.0\Chess-console.AssemblyInfo.cs
+C:\Users\gusta\source\repos\Chess-console\Chess-console\obj\Debug\net8.0\Chess-console.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\Chess-console\Chess-console\obj\Debug\net8.0\Chess-console.dll
+C:\Users\gusta\source\repos\Chess-console\Chess-console\obj\Debug\net8.0\refint\Chess-console.dll
+C:\Users\gusta\source\repos\Chess-console\Chess-console\obj\Debug\net8.0\Chess-console.pdb
+C:\Users\gusta\source\repos\Chess-console\Chess-console\obj\Debug\net8.0\Chess-console.genruntimeconfig.cache
+C:\Users\gusta\source\repos\Chess-console\Chess-console\obj\Debug\net8.0\ref\Chess-console.dll
+C:\Users\gusta\Desktop\é o scriptas\CSharpas\Chess-console\Chess-console\bin\Debug\net8.0\Chess-console.exe
+C:\Users\gusta\Desktop\é o scriptas\CSharpas\Chess-console\Chess-console\bin\Debug\net8.0\Chess-console.deps.json
+C:\Users\gusta\Desktop\é o scriptas\CSharpas\Chess-console\Chess-console\bin\Debug\net8.0\Chess-console.runtimeconfig.json
+C:\Users\gusta\Desktop\é o scriptas\CSharpas\Chess-console\Chess-console\bin\Debug\net8.0\Chess-console.dll
+C:\Users\gusta\Desktop\é o scriptas\CSharpas\Chess-console\Chess-console\bin\Debug\net8.0\Chess-console.pdb
+C:\Users\gusta\Desktop\é o scriptas\CSharpas\Chess-console\Chess-console\obj\Debug\net8.0\Chess-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Desktop\é o scriptas\CSharpas\Chess-console\Chess-console\obj\Debug\net8.0\Chess-console.AssemblyInfoInputs.cache
+C:\Users\gusta\Desktop\é o scriptas\CSharpas\Chess-console\Chess-console\obj\Debug\net8.0\Chess-console.AssemblyInfo.cs
+C:\Users\gusta\Desktop\é o scriptas\CSharpas\Chess-console\Chess-console\obj\Debug\net8.0\Chess-console.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\é o scriptas\CSharpas\Chess-console\Chess-console\obj\Debug\net8.0\Chess-console.dll
+C:\Users\gusta\Desktop\é o scriptas\CSharpas\Chess-console\Chess-console\obj\Debug\net8.0\refint\Chess-console.dll
+C:\Users\gusta\Desktop\é o scriptas\CSharpas\Chess-console\Chess-console\obj\Debug\net8.0\Chess-console.pdb
+C:\Users\gusta\Desktop\é o scriptas\CSharpas\Chess-console\Chess-console\obj\Debug\net8.0\Chess-console.genruntimeconfig.cache
+C:\Users\gusta\Desktop\é o scriptas\CSharpas\Chess-console\Chess-console\obj\Debug\net8.0\ref\Chess-console.dll
